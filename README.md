@@ -1,8 +1,3 @@
-### Hi there 👋
-I'm TerWebz and:
-- 🔭 I’m currently working on BeeBit
-- 🌱 I’m currently learning Adobe software
-- 💬 Ask me about anything
-- 📫 How to reach me: Discord and Twitter
-- 😄 Pronouns: Any
-- ⚡ Fun fact: During the Wii's development they made sure to never mention the word mail.
+[![TerWebz's github stats](https://github-readme-stats.vercel.app/api?username=terwebz)](https://github.com/anuraghazra/github-readme-stats)
+
+See I would put something here but idk what to put
